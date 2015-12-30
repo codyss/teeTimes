@@ -1,0 +1,56 @@
+.page-header {
+    text-align: center;
+    margin-top: 0px;
+    margin: 20px, 0, 10px;
+    color:white;
+}
+
+.btn-group {
+    margin-left: 200px;
+}
+
+#times-button {
+    width: 200px;
+}
+
+#num-input {
+    position: relative;
+    font-size: 16pt;
+    height:50px;
+}
+
+#leaderboard {
+    margin: auto;
+}
+
+#load-times {
+    
+}
+
+#book-time {
+    height: 30px;
+    width: 50px;
+    padding-left: 5px;
+    padding-top: 5px;
+    background-color: gray;
+}
+
+.container {
+    width: 400px;
+}
+
+#output tbody { display: block; }
+
+#output tbody {
+    background-color: white;
+    max-height: 450px;
+    width: 500px;
+    overflow-y: auto;
+    font-size: 16pt;
+}
+
+
+body {
+    background-image: url(http://www.streamsongresort.com/wp-content/uploads/2014/01/brick-streamsong-red.jpg);
+    max-height: 650px;
+}
